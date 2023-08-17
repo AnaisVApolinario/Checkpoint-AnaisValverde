@@ -1,0 +1,31 @@
+
+Comandos realizados:
+1.mkdir Checkpoint-AnaisValverde
+2.git init
+3.git remote add origin https://github.com/AnaisVApolinario/Checkpoint-AnaisValverde.git
+4.git branch -M main
+5.touch main.js index.html
+6.git add .
+7.git commit -m "commit 01 de AnaisValverde"
+8.git push origin main 
+9.git checkout -b feature
+10.mkdir Hardware Software SeguridadInformatica
+11.cd Hardware
+12.touch resumen.txt
+13.cd ..
+14.cd Software
+15.touch resumen.txt
+16.cd ..
+17.cd SeguridadInformatica
+18.touch resumen.txt
+19.cd ..
+20.git add .
+21.git commit -m "commit 02 de AnaisValverde"
+22.git push origin feature
+23.git checkout main
+24.mv main.js resumenHardware.txt
+25.mv index.html resumenSoftware.txt
+26.touch comandos.txt
+27.git add .
+28.git commit -m "commit 03 de AnaisValverde"
+29.git push origin main

@@ -1,0 +1,4 @@
+Memorias principales de la computadora:
+1. Memoria RAM
+2. Memoria caché L1
+3. Memoria de almacenamiento SSD
